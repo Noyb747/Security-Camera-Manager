@@ -11,6 +11,7 @@ A simple camera display program build in python.
   ```sh
   pip install -r "./Security-Camera-Manager/bin/requirements.txt"
   ```
+  to install the python libraries needed.
 
 # Usage
 On Windows: ```scmanager <cameras>```
