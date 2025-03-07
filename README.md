@@ -3,13 +3,14 @@
 A simple camera display program build in python.
 
 # Install
-* Windows: Run 
-  ```
+* Windows: Run :
+  ```sh
   git clone https://github.com/Noyb747/Security-Camera-Manager.git
   ```
-  to install the program and if 
-
-```./Security-Camera-Manager/precompiled/windows/scmanager.exe``` 
+  to install the program and if you're using the python file and not the precompiled version run:
+  ```sh
+  pip install -r "./Security-Camera-Manager/bin/requirements.txt"
+  ```
 
 # Usage
 On Windows: ```scmanager <cameras>```
