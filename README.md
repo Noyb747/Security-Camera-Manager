@@ -3,7 +3,7 @@
 A simple camera display program build in python.
 
 # Install
-* Windows: Run :
+* Windows: Run:
   ```sh
   git clone https://github.com/Noyb747/Security-Camera-Manager.git
   ```
