@@ -3,11 +3,11 @@
 A simple camera display program build in python.
 
 # Install
-Windows: Run 
-```
-git clone https://github.com/Noyb747/Security-Camera-Manager.git
-```
-to install the program and if 
+* Windows: Run 
+  ```
+  git clone https://github.com/Noyb747/Security-Camera-Manager.git
+  ```
+  to install the program and if 
 
 ```./Security-Camera-Manager/precompiled/windows/scmanager.exe``` 
 
